@@ -180,6 +180,7 @@ p{
 /* service and contact us section start */
 
 .service-contact{
+    margin-top:5rem;
     display: flex;
     text-align: center;
     align-items: center;
@@ -283,7 +284,7 @@ p{
 .float-btn{
     margin-top:3rem;
     padding:1.5rem;
-    background-color: beige;
+   background-color: rgba(223, 222, 222, 0.773);
     border:none;
     color: #5B609E;
     letter-spacing: 0.2rem;
@@ -343,7 +344,7 @@ p{
 .float2-btn{
     margin-top:3rem;
     padding:1.5rem;
-    background-color: beige;
+    background-color: rgba(223, 222, 222, 0.773);
     border:none;
     color: #5B609E;
     letter-spacing: 0.2rem;
