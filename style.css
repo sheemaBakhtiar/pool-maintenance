@@ -135,6 +135,8 @@ p{
 }
 
 .main-btn{
+    display: flex;
+    align-items: center;
     margin-top: 10rem;
     cursor: pointer;
     padding-left:2rem;
