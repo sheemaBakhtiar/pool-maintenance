@@ -488,6 +488,9 @@ ul{
     main{
         display: block;
     }
+    .main-btn{
+	    box-shadow:none;
+    }
     .main-h1{
         font-size: 2rem;
     }
